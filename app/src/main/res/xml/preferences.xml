@@ -1,0 +1,14 @@
+<?xml version = "1.0" encoding = "utf-8" ?>
+<PreferenceScreen
+    xmlns:android = "http://schemas.android.com/apk/res/android">
+
+    <ListPreference
+        android:key = "pref_theme"
+        android:title = "App Theme"
+        android:summary="Change the theme of the InstaClone app"
+        android:dialogTitle = "Choose a theme"
+        android:entries = "@array/theme"
+        android:entryValues = "@array/theme_values"
+        android:defaultValue = "@string/theme_default"
+        />
+</PreferenceScreen>

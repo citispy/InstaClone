@@ -1,0 +1,28 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/miNotifications"
+        android:icon="@drawable/ic_notifications_white"
+        app:showAsAction="ifRoom"
+        android:title="Notifications">
+    </item>
+    <item
+        android:id="@+id/miBrowse"
+        android:icon="@drawable/ic_search_white"
+        app:showAsAction="ifRoom"
+        android:title="Browse Users">
+    </item>
+    <item
+        android:id="@+id/miProfile"
+        android:icon="@drawable/ic_account_circle_white"
+        app:showAsAction="ifRoom"
+        android:title="Profile">
+    </item>
+
+    <item
+        android:id="@+id/miSettings"
+        android:icon="@drawable/ic_settings_white"
+        app:showAsAction="ifRoom"
+        android:title="Settings">
+    </item>
+</menu>

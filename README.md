@@ -1,4 +1,5 @@
 # InstaClone
+[Screenshots can be found here](https://myconcepts.co.za/instaclone/)
 This was my final Capstone project while completing the Advanced Mobile Developer MicroDegree at Hyperion.
 
 The requirements for the project can be found below:
